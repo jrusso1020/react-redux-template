@@ -1,0 +1,24 @@
+.html {
+  font-family: Verdana, Geneva, sans-serif; }
+
+h1 {
+  color: #FEFFFF;
+  font-size: 48px; }
+
+.navbar {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: #2B7A78;
+  height: 50px;
+  align-items: center;
+  position: fixed;
+  top: 0; }
+
+.link {
+  color: #FEFFFF;
+  text-decoration: none;
+  margin-left: 25px; }
+  .link:hover {
+    color: #17252A;
+    transition: color 0.5s; }
